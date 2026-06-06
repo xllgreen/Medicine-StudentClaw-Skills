@@ -43,7 +43,7 @@
 | ⚡ 生理学 | — | — | 📌 |
 | 🦠 医学微生物学 | — | — | 📌 |
 | 🧫 医学细胞生物学 | — | — | 📌 |
-| [🧬 医学遗传学](https://github.com/xllgreen/Medical-Genetics-8edition) · [ClawHub](https://clawhub.ai/xllgreen/medical-genetics-8edition) | 第 8 版 | 131 项 | ✅ |
+| [🧬 医学遗传学](https://github.com/xllgreen/Medical-Genetics-8edition) · [ClawHub](https://clawhub.ai/xllgreen/medical-genetics-8edition) | 人卫社第 8 版 | 131 项 | ✅ |
 | 💊 药理学 | — | — | 📌 |
 | ⚖️ 病理生理学 | — | — | 📌 |
 | 🩻 病理学 | — | — | 📌 |
@@ -79,7 +79,7 @@
 | 项目 | 技能数 | 教材 | 技能分类 |
 |------|:------:|------|:--------:|
 | [🦴 系统解剖学](https://github.com/xllgreen/Systematic-Anatomy-10edition) · [ClawHub](https://clawhub.ai/xllgreen/systematic-anatomy-10edition) | 112 | 人卫社第 10 版 | 8 大分类 |
-| [🧬 医学遗传学](https://github.com/xllgreen/Medical-Genetics-8edition) · [ClawHub](https://clawhub.ai/xllgreen/medical-genetics-8edition) | 131 | 第 8 版 | 13 大分类 |
+| [🧬 医学遗传学](https://github.com/xllgreen/Medical-Genetics-8edition) · [ClawHub](https://clawhub.ai/xllgreen/medical-genetics-8edition) | 131 | 人卫社第 8 版 | 13 大分类 |
 | [🌿 中医学](https://github.com/xllgreen/Chinese-Medicine-10edition) · [ClawHub](https://clawhub.ai/xllgreen/chinese-medicine-10edition) | 172 | 人卫社第 10 版 | 20 大分类 |
 | [📡 医学影像学](https://github.com/xllgreen/Medical-Imaging-9thEdition) · [ClawHub](https://clawhub.ai/xllgreen/medical-imaging-9th-edition) | 136 | 人卫社第 9 版 | 13 大分类 |
 | [🔪 外科学](https://github.com/xllgreen/Surgery-PMPH-10edition-) · [ClawHub](https://clawhub.ai/xllgreen/surgery-pmph-10edition) | 240 | 人卫社第 10 版 | 17 大分类 |
