@@ -14,6 +14,8 @@
 > 基于人民卫生出版社规划教材整理的临床医学技能手册合集
 >
 > 涵盖基础医学与临床医学两大领域，累计 **1600+** 项核心临床技能
+> 
+> 适用于OpenClaw、Claud Code。
 
 </div>
 
@@ -152,10 +154,10 @@ MIT License
 
 ## Star History
 
-<a href="https://www.star-history.com/#xllgreen%2FSystematic-Anatomy-10edition&xllgreen%2FMedical-Genetics-8edition&xllgreen%2FChinese-Medicine-10edition&xllgreen%2FMedical-Imaging-9thEdition&xllgreen%2FSurgery-PMPH-10edition-&Internal-Medicine-PMPH-10edition&Obstetrics-and-Gynecology-PMPH-10edition&xllgreen%2FPediatrics-PMPH-10edition&Date">
+<a href="https://www.star-history.com/?repos=xllgreen%2FMedicine-StudentClaw-Skills&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?type=date&theme=dark&repos=xllgreen%2FSystematic-Anatomy-10edition,xllgreen%2FMedical-Genetics-8edition,xllgreen%2FChinese-Medicine-10edition,xllgreen%2FMedical-Imaging-9thEdition,xllgreen%2FSurgery-PMPH-10edition-,Internal-Medicine-PMPH-10edition,Obstetrics-and-Gynecology-PMPH-10edition,xllgreen%2FPediatrics-PMPH-10edition&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?type=date&repos=xllgreen%2FSystematic-Anatomy-10edition,xllgreen%2FMedical-Genetics-8edition,xllgreen%2FChinese-Medicine-10edition,xllgreen%2FMedical-Imaging-9thEdition,xllgreen%2FSurgery-PMPH-10edition-,Internal-Medicine-PMPH-10edition,Obstetrics-and-Gynecology-PMPH-10edition,xllgreen%2FPediatrics-PMPH-10edition&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?type=date&repos=xllgreen%2FSystematic-Anatomy-10edition,xllgreen%2FMedical-Genetics-8edition,xllgreen%2FChinese-Medicine-10edition,xllgreen%2FMedical-Imaging-9thEdition,xllgreen%2FSurgery-PMPH-10edition-,Internal-Medicine-PMPH-10edition,Obstetrics-and-Gynecology-PMPH-10edition,xllgreen%2FPediatrics-PMPH-10edition&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xllgreen/Medicine-StudentClaw-Skills&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xllgreen/Medicine-StudentClaw-Skills&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xllgreen/Medicine-StudentClaw-Skills&type=date&legend=top-left" />
  </picture>
 </a>
