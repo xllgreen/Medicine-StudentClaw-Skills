@@ -40,17 +40,15 @@
 | 学科 | 版本 | 技能数 | 状态 |
 |------|------|--------|:----:|
 | [🦴 系统解剖学](https://github.com/xllgreen/Systematic-Anatomy-10edition) · [ClawHub](https://clawhub.ai/xllgreen/systematic-anatomy-10edition) | 人卫社第 10 版 | 112 项 | ✅ |
-| 🔬 组织学与胚胎学 | — | — | 📌 |
-| 🧪 生物化学与分子生物学 | — | — | 📌 |
-| ⚡ 生理学 | — | — | 📌 |
-| 🦠 医学微生物学 | — | — | 📌 |
-| 🧫 医学细胞生物学 | — | — | 📌 |
+| [🔬 组织学与胚胎学](https://github.com/xllgreen/Histology-and-Embryology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/histology-and-embryology-pmph-10edition) | 人卫社第 10 版 | 124 项 | ✅ |
+| [🧪 生物化学与分子生物学](https://github.com/xllgreen/Biochemistry-and-Molecular-Biology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/biochemistry-and-molecular-biology-pmph-10edition) | 人卫社第 10 版 | 154 项 | ✅ |
+| [⚡ 生理学](https://github.com/xllgreen/Physiology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/physiology-pmph-10edition) | 人卫社第 10 版 | 165 项 | ✅ |
+| [🦠 医学微生物学](https://github.com/xllgreen/Medical-Microbiology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/medical-microbiology-pmph-10edition) | 人卫社第 10 版 | 146 项 | ✅ |
+| [🧫 医学细胞生物学](https://github.com/xllgreen/Medical-Cell-Biology-PMPH-7edition) · [ClawHub](https://clawhub.ai/xllgreen/medical-cell-biology-pmph-7edition) | 人卫社第 7 版 | 146 项 | ✅ |
 | [🧬 医学遗传学](https://github.com/xllgreen/Medical-Genetics-8edition) · [ClawHub](https://clawhub.ai/xllgreen/medical-genetics-8edition) | 人卫社第 8 版 | 131 项 | ✅ |
-| 💊 药理学 | — | — | 📌 |
-| ⚖️ 病理生理学 | — | — | 📌 |
-| 🩻 病理学 | — | — | 📌 |
-
-> 📌 标注为**待建设**学科，目前尚未发布对应技能集，敬请期待。
+| [💊 药理学](https://github.com/xllgreen/Pharmacology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/pharmacology-pmph-10edition) | 人卫社第 10 版 | 180 项 | ✅ |
+| [⚖️ 病理生理学](https://github.com/xllgreen/Pathophysiology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/pathophysiology-pmph-10edition) | 人卫社第 10 版 | 145 项 | ✅ |
+| [🩻 病理学](https://github.com/xllgreen/Pathology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/pathology-pmph-10edition) | 人卫社第 10 版 | 145 项 | ✅ |
 
 ---
 
@@ -60,9 +58,9 @@
 
 | 学科 | 版本 | 技能数 | 状态 |
 |------|------|--------|:----:|
-| 💊 药理学 | — | — | 📌 |
-| 🩺 诊断学 | — | — | 📌 |
-| 🧫 病理学 | — | — | 📌 |
+| [💊 药理学](https://github.com/xllgreen/Pharmacology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/pharmacology-pmph-10edition) | 人卫社第 10 版 | 180 项 | ✅ |
+| [🩺 诊断学](https://github.com/xllgreen/Diagnostics-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/diagnostics-pmph-10edition) | 人卫社第 10 版 | 183 项 | ✅ |
+| [🩻 病理学](https://github.com/xllgreen/Pathology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/pathology-pmph-10edition) | 人卫社第 10 版 | 145 项 | ✅ |
 | [🌿 中医学](https://github.com/xllgreen/Chinese-Medicine-10edition) · [ClawHub](https://clawhub.ai/xllgreen/chinese-medicine-10edition) | 人卫社第 10 版 | 172 项 | ✅ |
 | [📡 医学影像学](https://github.com/xllgreen/Medical-Imaging-9thEdition) · [ClawHub](https://clawhub.ai/xllgreen/medical-imaging-9th-edition) | 人卫社第 9 版 | 136 项 | ✅ |
 | [🔪 外科学](https://github.com/xllgreen/Surgery-PMPH-10edition-) · [ClawHub](https://clawhub.ai/xllgreen/surgery-pmph-10edition) | 人卫社第 10 版 | 240 项 | ✅ |
@@ -71,23 +69,6 @@
 | [👶 儿科学](https://github.com/xllgreen/Pediatrics-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/pediatrics-pmph-10edition) | 人卫社第 10 版 | 184 项 | ✅ |
 
 > 📌 标注为**待建设**学科，目前尚未发布对应技能集，敬请期待。
-
----
-
-## 已发布技能集总览
-
-所有已发布的技能集合计覆盖 **1600+** 项核心临床技能。
-
-| 项目 | 技能数 | 教材 | 技能分类 |
-|------|:------:|------|:--------:|
-| [🦴 系统解剖学](https://github.com/xllgreen/Systematic-Anatomy-10edition) · [ClawHub](https://clawhub.ai/xllgreen/systematic-anatomy-10edition) | 112 | 人卫社第 10 版 | 8 大分类 |
-| [🧬 医学遗传学](https://github.com/xllgreen/Medical-Genetics-8edition) · [ClawHub](https://clawhub.ai/xllgreen/medical-genetics-8edition) | 131 | 人卫社第 8 版 | 13 大分类 |
-| [🌿 中医学](https://github.com/xllgreen/Chinese-Medicine-10edition) · [ClawHub](https://clawhub.ai/xllgreen/chinese-medicine-10edition) | 172 | 人卫社第 10 版 | 20 大分类 |
-| [📡 医学影像学](https://github.com/xllgreen/Medical-Imaging-9thEdition) · [ClawHub](https://clawhub.ai/xllgreen/medical-imaging-9th-edition) | 136 | 人卫社第 9 版 | 13 大分类 |
-| [🔪 外科学](https://github.com/xllgreen/Surgery-PMPH-10edition-) · [ClawHub](https://clawhub.ai/xllgreen/surgery-pmph-10edition) | 240 | 人卫社第 10 版 | 17 大分类 |
-| [❤️ 内科学](https://github.com/xllgreen/Internal-Medicine-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/internal-medicine-pmph-10edition) | 423 | 人卫社第 10 版 | 15 大分类 |
-| [🤰 妇产科学](https://github.com/xllgreen/Obstetrics-And-Gynecology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/obstetrics-and-gynecology-pmph-10edition) | 187 | 人卫社第 10 版 | 15 大分类 |
-| [👶 儿科学](https://github.com/xllgreen/Pediatrics-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/pediatrics-pmph-10edition) | 184 | 人卫社第 10 版 | 15 大分类 |
 
 ---
 
