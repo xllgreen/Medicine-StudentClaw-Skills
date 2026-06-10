@@ -143,6 +143,6 @@ MIT License
  </picture>
 </a>
 
-##QRCode
+## QRCode
 
 <img src="/QRCode.png" width="260px">
