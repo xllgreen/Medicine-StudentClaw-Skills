@@ -15,7 +15,7 @@
 >
 > 涵盖基础医学与临床医学两大领域，累计 **1600+** 项核心临床技能
 > 
-> 适用于OpenClaw、Claud Code。
+> 适用于OpenClaw、Claude Code。
 
 </div>
 
@@ -105,7 +105,7 @@
 
 ## 关于作者
 
-**小绿绿 xllgreen(https://xllgreen.github.io)** — 九江学院临床医学院学生·科技极客
+**小绿绿 xllgreen(wenlu200412@163.com)** — 九江学院临床医学院学生·科技极客
 
 ## 技术支持
 <br>
@@ -142,3 +142,7 @@ MIT License
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xllgreen/Medicine-StudentClaw-Skills&type=date&legend=top-left" />
  </picture>
 </a>
+
+##QRCode
+
+<img src="/QRCode.png" width="260px">
