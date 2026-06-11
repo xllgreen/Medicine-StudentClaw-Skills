@@ -49,6 +49,12 @@
 | [💊 药理学](https://github.com/xllgreen/Pharmacology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/pharmacology-pmph-10edition) | 人卫社第 10 版 | 180 项 | ✅ |
 | [⚖️ 病理生理学](https://github.com/xllgreen/Pathophysiology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/pathophysiology-pmph-10edition) | 人卫社第 10 版 | 145 项 | ✅ |
 | [🩻 病理学](https://github.com/xllgreen/Pathology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/pathology-pmph-10edition) | 人卫社第 10 版 | 145 项 | ✅ |
+| [📚 卫生法](-) · [ClawHub](-) | 人卫社第 6 版 | - 项 | 📌 |
+| [❤️ 医学心理学](-) · [ClawHub](-) | 人卫社第 8 版 | - 项 | 📌 |
+| [🏠 医学伦理学](-) · [ClawHub](-) | 人卫社第 6 版 | - 项 | 📌 |
+| [💻 医学统计学](-) · [ClawHub](-) | 人卫社第 8 版 | - 项 | 📌 |
+| [🛡 医学免疫学](-) · [ClawHub](-) | 人卫社第 8 版 | - 项 | 📌 |
+| [🐛 人体寄生虫学](-) · [ClawHub](-) | 人卫社第 8 版 | - 项 | 📌 |
 
 ---
 
@@ -67,7 +73,16 @@
 | [❤️ 内科学](https://github.com/xllgreen/Internal-Medicine-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/internal-medicine-pmph-10edition) | 人卫社第 10 版 | 423 项 | ✅ |
 | [🤰 妇产科学](https://github.com/xllgreen/Obstetrics-And-Gynecology-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/obstetrics-and-gynecology-pmph-10edition) | 人卫社第 10 版 | 187 项 | ✅ |
 | [👶 儿科学](https://github.com/xllgreen/Pediatrics-PMPH-10edition) · [ClawHub](https://clawhub.ai/xllgreen/pediatrics-pmph-10edition) | 人卫社第 10 版 | 184 项 | ✅ |
-
+| [😷 传染病学](-) · [ClawHub](-) | 人卫社第 10 版 | - 项 | 📌 |
+| [👀 眼科学](-) · [ClawHub](-) | 人卫社第 10 版 | - 项 | 📌 |
+| [👂 耳鼻喉头颈外科学](-) · [ClawHub](-) | 人卫社第 10 版 | - 项 | 📌 |
+| [👄 口腔科学](-) · [ClawHub](-) | 人卫社第 10 版 | - 项 | 📌 |
+| [🚑 急诊与灾难医学](-) · [ClawHub](-) | 人卫社第 4 版 | - 项 | 📌 |
+| [🤦‍♂️ 皮肤性病学](-) · [ClawHub](-) | 人卫社第 10 版 | - 项 | 📌 |
+| [⚡️ 神经病学](-) · [ClawHub](-) | 人卫社第 9 版 | - 项 | 📌 |
+| [🏥 全科医学概论](-) · [ClawHub](-) | 人卫社第 6 版 | - 项 | 📌 |
+| [💪 精神病学](-) · [ClawHub](-) | 人卫社第 9 版 | - 项 | 📌 |
+| [👩‍⚕️ 康复医学](-) · [ClawHub](-) | 人卫社第 7 版 | - 项 | 📌 |
 > 📌 标注为**待建设**学科，目前尚未发布对应技能集，敬请期待。
 
 ---
